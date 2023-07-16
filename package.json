@@ -1,0 +1,22 @@
+{
+  "name": "pixi.js",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.1",
+    "vite": "4.3.9"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^21.0.0",
+    "pixi-tween": "^0.2.0",
+    "pixi.js": "7.2.4",
+    "tweedle.js": "^2.1.0",
+    "tween.js": "^16.6.0"
+  }
+}
